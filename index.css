@@ -1,0 +1,49 @@
+
+
+h1 {
+    color: #2E7AD3;
+    text-align: center;
+    padding-top: 45px; 
+    padding-bottom: 45px;
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 32px;
+    color: #104c90;
+    margin: 0;
+    margin-bottom: 8px;
+    
+}
+
+.blogpost-section {
+    background: grey;
+    width: 450px;
+    padding: 25px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+    
+}
+
+img, p {
+    margin: 0 auto;
+    
+
+}
+
+.firstP {
+    margin-top: 25px;
+}
+
+.secoundP {
+    margin-top: 9px;
+    
+}
+
+.links {
+    margin-top: 9px;
+}
+
+a:link {
+    color: orange ;
+}
